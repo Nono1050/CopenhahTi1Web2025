@@ -10,11 +10,12 @@
 <?php
 include 'inc/banniere.php';
 ?>
-                        <h1>Titre geographie</h1>
-                        <img src="img/geographie.png" alt="">
 <?php
 include 'inc/menu.php';
 ?>
+                        <h1>Titre geographie</h1>
+                        <img src="img/geographie.png" alt="">
+
     <p>La ville de Copenhague est située sur la côte orientale de l'île de Seeland, mais aussi sur l'île plus petite d'Amager, laquelle se trouve face au détroit d'Øresund, qui relie la mer du Nord à la mer Baltique et sépare le Danemark de la Suède.
 
 La partie ouest de Copenhague est relativement plate, mais on trouve un terrain plus accidenté au nord et au sud de la ville.

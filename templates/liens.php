@@ -10,11 +10,12 @@
 <?php 
 include 'inc/banniere.php';
 ?>
-                        <h1> Titre liens</h1>
-                        <img src="img/liens.jpg" alt="">
 <?php
 include 'inc/menu.php';
 ?>
+                        <h1> Titre liens</h1>
+                        <img src="img/liens.jpg" alt="">
+
     <div class="capital-links">
         <a href="#" target="_blank">Berlin</a>
         <a href="#" target="_blank">Vienne</a>

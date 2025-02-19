@@ -122,7 +122,7 @@ body {
     transform: translate(-50%, -50%);
     width: 300px;
     height: 80px;
-    background-color: rgba(245, 245, 220, 0.75); /* Beige avec opacité de 75% */
+    background-color: rgba(245, 245, 220, 0.75);
     color: black;
     font-family: Arial, Helvetica, sans-serif;
     text-transform: uppercase;
@@ -180,7 +180,7 @@ body {
 }
 
 .contact-form button:hover {
-    background-color: #45a049;
+    background-color: forestgreen;
 }
 
     

@@ -10,11 +10,12 @@
 <?php 
 include 'inc/banniere.php';
 ?>
-                <h1> Titre contact</h1>
-                <img src="img/contacts.jpg" alt="">
-                <?php
+ <?php
                 include 'inc/menu.php';
                 ?>
+                <h1> Titre contact</h1>
+                <img src="img/contacts.jpg" alt="">
+               
     <form class="contact-form">
             <label for="name">Nom :</label>
             <input type="text" id="name" name="name">

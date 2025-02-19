@@ -10,11 +10,11 @@
 <?php
 include 'inc/banniere.php';
 ?>
-                    <h1>Titre galerie</h1>
+                    
 <?php
 include 'inc/menu.php';
 ?>
-
+<h1>Titre galerie</h1>
     <table>
         <tr>
             <td><img src="img/480px_Caritasbrønden.jpg" alt="Image 1"></td>

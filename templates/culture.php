@@ -10,11 +10,12 @@
 <?php 
 include 'inc/banniere.php';
 ?>
-                    <h1>Titre culture</h1>
-                    <img src="img/culture.jpg" alt="">
 <?php
 include 'inc/menu.php';
 ?>
+                    <h1>Titre culture</h1>
+                    <img src="img/culture.jpg" alt="">
+
     <p>Bibliothèques
 
 Le Diamant noir (1999) qui abrite la bibliothèque nationale du Danemark conçue par les architectes Schmidt Hammer Lassen.
