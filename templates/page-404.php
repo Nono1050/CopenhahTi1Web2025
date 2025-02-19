@@ -7,7 +7,11 @@
     <title>page-404-error</title>
 </head>
 <body>
-    <h1>page-404-error</h1>
+                <h1>Titre page-404-error</h1>
+                <img src="img/404.jpg" alt="">
+                <p class="back-to-home">
+        <a href="./">Retour à l'accueil</a>
+    </p>
     
 </body>
 </html>

@@ -1,0 +1,90 @@
+body{
+    width: 1280px;
+    margin: 0 auto;
+}
+.blasonDeLaVille {
+    width: 100%;
+    height: 100%;
+    background-color: antiquewhite;
+    padding: 10px;
+    border-radius: 10px;
+    margin-top: 50px;
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.blasonDeLaVille img {
+    max-width: 100%;
+    height: auto;
+}
+.navbar {
+    background-color:gray;
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+    list-style-type: none;
+    border-radius: 10px;
+}
+.navbar a {
+    text-decoration: none;
+    color: black;
+}
+.navbar  a:hover {
+    color: tomato;
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: center;
+}
+
+td img {
+    max-width: 100%;
+    height: auto;
+}
+.capital-links {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+    margin-top: 20px;
+}
+
+.capital-links a {
+    text-decoration: none;
+    color: black;
+    padding: 10px;
+    background-color: #f2f2f2;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.capital-links a:hover {
+    background-color: #ddd;
+}
+.back-to-home {
+    margin-top: 20px;
+    text-align: center;
+}
+
+.back-to-home a {
+    text-decoration: none;
+    color: blue;
+    font-weight: bold;
+}
+
+.back-to-home a:hover {
+    text-decoration: underline;
+}
+
+
+
+    
+    
+  
+  

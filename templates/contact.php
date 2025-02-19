@@ -7,7 +7,8 @@
     <title>contact</title>
 </head>
 <body>
-    <h1>contact</h1>
+                <h1> Titre contact</h1>
+                <img src="img/contacts.jpg" alt="">
     <ul>
         <li><a href="./">accueil</a></li>
         <li><a href="./?p=form">contact</a></li>
