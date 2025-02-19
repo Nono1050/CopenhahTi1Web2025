@@ -14,7 +14,9 @@ include 'inc/banniere.php';
 include 'inc/menu.php';
 ?>
                         <h1> Titre liens</h1>
+                        <div class="liens">
                         <img src="img/liens.jpg" alt="">
+                        </div>
 
     <div class="capital-links">
         <a href="#" target="_blank">Berlin</a>

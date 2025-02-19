@@ -6,14 +6,14 @@ body{
 
 
 
-.titreSurImage {
+.titreSurImage {  /* Titre sur l'image ne pas toucher car fais partie de la banniere.php */
     position: absolute;
     top: 10%;
     left: 42%;
     color: black;
     font-size: 4em; 
     text-align: center;
-    border: 2px solid black; ;
+    border: 2px solid black; 
 }
 
 .blasonDeLaVille {
@@ -47,6 +47,26 @@ body{
 .navbar  a:hover {
     color: tomato;
 }
+.contact{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+.contact img{
+   width: 50%;
+
+}
+h1 {
+    text-align: center;
+    margin-top: 20px;
+    color: black;
+}
+
+
+
+
+
 table {
     width: 100%;
     border-collapse: collapse;
@@ -96,11 +116,8 @@ td img {
     text-decoration: underline;
 }
 
-body {
-    width: 1280px;
-    margin: 0 auto;
-    background-color: white;
-}
+
+
 
 .header {
     width: 1280px;
@@ -137,9 +154,11 @@ body {
 }
 
 .contact-form {
-    width: 620px;
-    margin: 0 auto;
+    width: 620px;;
     font-size: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 
 .contact-form label {
@@ -182,7 +201,26 @@ body {
 .contact-form button:hover {
     background-color: forestgreen;
 }
-
+.culture{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.geographie{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.histoire{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.liens{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
     
     
   

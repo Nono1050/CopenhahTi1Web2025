@@ -14,7 +14,9 @@ include 'inc/banniere.php';
 include 'inc/menu.php';
 ?>
                     <h1>Titre culture</h1>
+                    <div class="culture">
                     <img src="img/culture.jpg" alt="">
+                    </div>
 
     <p>Bibliothèques
 

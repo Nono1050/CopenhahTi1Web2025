@@ -14,7 +14,9 @@ include 'inc/banniere.php';
 include 'inc/menu.php';
 ?>
                             <h1>Titre histoire</h1>
+                            <div class="histoire">
                             <img src="img/histoire.png" alt="">
+                            </div>
 
     <p>Préhistoire
 
