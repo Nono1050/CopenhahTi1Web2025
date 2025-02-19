@@ -7,17 +7,26 @@
     <title>contact</title>
 </head>
 <body>
+<?php 
+include 'inc/banniere.php';
+?>
                 <h1> Titre contact</h1>
                 <img src="img/contacts.jpg" alt="">
-    <ul>
-        <li><a href="./">accueil</a></li>
-        <li><a href="./?p=form">contact</a></li>
-        <li><a href="./?p=cult">culture</a></li>
-        <li><a href="./?p=gal">galerie</a></li>
-        <li><a href="./?p=geo">geographie</a></li>
-        <li><a href="./?p=hist">histoire</a></li>
-        <li><a href="./?p=link">liens</a></li>
-    </ul>
-    
+                <?php
+                include 'inc/menu.php';
+                ?>
+    <form class="contact-form">
+            <label for="name">Nom :</label>
+            <input type="text" id="name" name="name">
+
+            <label for="email">Email :</label>
+            <input type="email" id="email" name="email">
+
+            <label for="message">Message :</label>
+            <textarea id="message" name="message"></textarea>
+
+            <button type="submit">Envoyer</button>
+        </form>
+    </div>
 </body>
 </html>
